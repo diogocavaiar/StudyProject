@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action">Acción</string>
+    <string name="adventure">Aventura</string>
+    <string name="action_adventure">Acción y Aventura</string>
+    <string name="animation">Animación</string>
+    <string name="comedy">Comedia</string>
+    <string name="crime">Crimen</string>
+    <string name="documentary">Documental</string>
+    <string name="drama">Drama</string>
+    <string name="family">Familia</string>
+    <string name="fantasy">Fantasía</string>
+    <string name="history">Historia</string>
+    <string name="horror">Terror</string>
+    <string name="kids">Infantil</string>
+    <string name="mystery">Misterio</string>
+    <string name="news">Noticias</string>
+    <string name="music">Música</string>
+    <string name="reality">Realidad</string>
+    <string name="romance">Romance</string>
+    <string name="science_fiction">Ciencia Ficción</string>
+    <string name="science_fiction_fantasy">Ciencia Ficción y Fantasía</string>
+    <string name="soap">Telenovela</string>
+    <string name="talk">Talk Show</string>
+    <string name="thriller">Suspenso</string>
+    <string name="tv_movie">Película de TV</string>
+    <string name="war">Guerra</string>
+    <string name="war_politics">Guerra y Política</string>
+    <string name="western">Western</string>
+    <string name="category_movie_top_rated">Los más valorados</string>
+    <string name="category_movie_now_playing">Jugando ahora</string>
+    <string name="category_movie_popular">Popular</string>
+    <string name="category_movie_upcoming">Próximo</string>
+</resources>

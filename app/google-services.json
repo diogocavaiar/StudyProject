@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000355883858",
+    "project_id": "studyproject-d3bc5",
+    "storage_bucket": "studyproject-d3bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000355883858:android:a736eec700f73c74c2288b",
+        "android_client_info": {
+          "package_name": "br.com.dmcconsulting.studyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfra826KBNqmMVQgTf6Ny3VMMpUARVd-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
