@@ -1,3 +1,6 @@
+# :construction: IN DEVELOPMENT...
+
+
 # StudyProject
 
 Welcome to the repository of Android Development Study Project! This project has been created with the aim of exploring and applying best practices and the latest technologies available in the Android world.
