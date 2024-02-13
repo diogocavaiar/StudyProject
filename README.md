@@ -2,6 +2,11 @@
 
 Welcome to the repository of Android Development Study Project! This project has been created with the aim of exploring and applying best practices and the latest technologies available in the Android world.
 
+![Screenshot_20240214_002351_StudyProject_](https://github.com/diogocavaiar/StudyProject/assets/31456362/72076bc7-60a2-485f-98a4-4b4c2676c52d)
+![Screenshot_20240214_002359_StudyProject_](https://github.com/diogocavaiar/StudyProject/assets/31456362/ad095065-fa5b-4f79-98e1-53cd383e6b78)
+
+
+
 ## Objective
 Main goal is to develop a robust, scalable, and high-quality Android application while learning and applying the latest techniques and tools available on the Android platform. This project serves as a learning platform for Android developers interested in enhancing their skills and staying up-to-date with recommended practices.
 
@@ -22,6 +27,9 @@ Main goal is to develop a robust, scalable, and high-quality Android application
 ## Architeture
 
 The MVI (Model-View-Intent) Architecture is a design pattern used in Android app development. It consists of three main components:
+
+![Architecture_MVI_](https://github.com/diogocavaiar/StudyProject/assets/31456362/d84da3c3-58eb-4259-8bf8-e52c180d298c)
+
 
 Model: Represents the current state of the application and contains business logic.
 View: Responsible for presenting data to the user and interacting with them.
